@@ -1,0 +1,4 @@
+SecurityEvent
+| where EventID == 4625
+| summarize Count = count() by IpAddress
+| order by Count desc
