@@ -19,3 +19,4 @@
 [![Live Attack Map →](https://img.shields.io/badge/Live_Attack_Map-00BCF2?logo=microsoftazure&labelColor=1F1F1F)](https://portal.azure.com/#blade/AppInsightsExtension/UsageNotebookBlade/ComponentId/.../Type/sentinel)
 
 **22.8K attacks live right now** – click badge ↑
+<iframe src="https://portal.azure.com/#blade/AppInsightsExtension/UsageNotebookBlade/ComponentId/%2Fsubscriptions%2F8a3436db-c24d-4a33-a5d8-e67f9a53c20d%2Fresourcegroups%2Frg-soc-lab%2Fproviders%2Fmicrosoft.operationalinsights%2Fworkspaces%2Flaw-soc-lab-01/ConfigurationId/%2Fsubscriptions%2F8a3436db-c24d-4a33-a5d8-e67f9a53c20d%2Fresourcegroups%2Frg-soc-lab%2Fproviders%2Fmicrosoft.insights%2Fworkbooks%2Fccc05108-7d5f-4f70-bc8c-26a5fdaf6116/Type/sentinel/WorkbookTemplateName/Windows%20VM%20Attack%20Map" width="100%" height="520" frameborder="0"></iframe>
