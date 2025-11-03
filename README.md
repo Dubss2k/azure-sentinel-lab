@@ -23,3 +23,4 @@
 
   ## Attack Map Visualization
   ### This is the final mapping of IP Adresses tied to geolocation
+  ![](images/VM_Attack_Heatmap.png)
