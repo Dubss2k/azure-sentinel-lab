@@ -1,3 +1,4 @@
+//KQL query that counts the amount of failed logins per IP address
 SecurityEvent
 | where EventID == 4625
 | summarize Count = count() by IpAddress
