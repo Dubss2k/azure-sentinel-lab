@@ -1,0 +1,3 @@
+SecurityEvent 
+| project TimeGenerated, Account, EventID, IpAddress, Activity
+| where EventID == 4625
