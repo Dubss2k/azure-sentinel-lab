@@ -1,7 +1,7 @@
 # Azure Sentinel Security Monitoring
 
 ## Overview
-  Set up a cloud-based Security Information and Event Management (SIEM) solution using Microsoft Sentinel, ingest security logs from a Windows virtual machine, detect failed login attempts, and visualize attack data on a global map.
+  Set up a cloud-based Security Information and Event Management (SIEM) solution using Microsoft Sentinel, ingest security logs from a Windows virtual machine honeypot, detect failed login attempts, and visualize attack data on a global map.
 
 
 ## Tools Used
