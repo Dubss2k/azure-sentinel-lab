@@ -16,7 +16,5 @@
   - Identified attacker IPs.
   - Visualized attack data on a global map through IP locations in Microsoft Sentinel.
 
-![Live Attack Map →](images/VM_Attack_Heatmap.png)
-[![Live Attack Map →](https://img.shields.io/badge/Attack_Map_Live-0078D4?logo=microsoftazure&labelColor=222222&color=00BCF2)](https://portal.azure.com/#blade/AppInsightsExtension/WorkbookViewerBlade/ComponentId/%2Fsubscriptions%2F8a3436db-c24d-4a33-a5d8-e67f9a53c20d%2Fresourcegroups%2Frg-soc-lab%2Fproviders%2Fmicrosoft.operationalinsights%2Fworkspaces%2Flaw-soc-lab-01/ConfigurationId/%2Fsubscriptions%2F8a3436db-c24d-4a33-a5d8-e67f9a53c20d%2Fresourcegroups%2Frg-soc-lab%2Fproviders%2Fmicrosoft.insights%2Fworkbooks%2Fccc05108-7d5f-4f70-bc8c-26a5fdaf6116/Type/sentinel/WorkbookTemplateName/Windows%20VM%20Attack%20Map) 
-
-[![Live Attack Heatmap — click to zoom](images/VM_Attack_Heatmap.png)](https://portal.azure.com/#blade/AppInsightsExtension/UsageNotebookBlade/ComponentId/%2Fsubscriptions%2F8a3436db-c24d-4a33-a5d8-e67f9a53c20d%2Fresourcegroups%2Frg-soc-lab%2Fproviders%2Fmicrosoft.operationalinsights%2Fworkspaces%2Flaw-soc-lab-01/ConfigurationId/%2Fsubscriptions%2F8a3436db-c24d-4a33-a5d8-e67f9a53c20d%2Fresourcegroups%2Frg
+[![](images/VM_Attack_Heatmap.png)](https://portal.azure.com/#blade/AppInsightsExtension/UsageNotebookBlade/ComponentId/%2Fsubscriptions%2F8a3436db-c24d-4a33-a5d8-e67f9a53c20d%2Fresourcegroups%2Frg-soc-lab%2Fproviders%2Fmicrosoft.operationalinsights%2Fworkspaces%2Flaw-soc-lab-01/ConfigurationId/%2Fsubscriptions%2F8a3436db-c24d-4a33-a5d8-e67f9a53c20d%2Fresourcegroups%2Frg-soc-lab%2Fproviders%2Fmicrosoft.insights%2Fworkbooks%2Fccc05108-7d5f-4f70-bc8c-26a5fdaf6116/Type/sentinel/WorkbookTemplateName/Windows%20VM%20Attack%20Map)
+Click Attack Map to open Azure Workbook Interactable Map
